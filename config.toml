@@ -1,7 +1,7 @@
 baseURL = "/"
+theme = "risotto"
 title = "Izzy Mukhitdinov"
 author = "Izzy Mukhitdinov"
-theme = "risotto"
 copyright = "© 2021–2022 [Izzy Mukhitdinov](https://izzymukhitdinov.xyz)"
 paginate = 3
 languageCode = "en"
