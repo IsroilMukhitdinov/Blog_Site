@@ -16,11 +16,13 @@ Hence, I started out with glorius Lisp programming language and fell in love wit
 
 My favorite programming languages are Go, Rust and of course, Lisp. I speak a bit of Java, Python and Haskell as well.
 
-I have authored some projects so far, including:
+I am currently working on multiple projects simultaniously, including:
 
 * [Routing Library for Go Programming Language](https://github.com/IsroilMukhitdinov/aviccena)
-* [No Fluff](https://nofluffhere.com)
-* [ToDo List Command-Line Application](https://github.com/IsroilMukhitdinov/tasktable)
+* [Share Epiphany](https://nofluffhere.com) 
+* [Muslim Prayer Times Command-Line Application](https://github.com/IsroilMukhitdinov/Prayer_Times)
+
+<span style="background-color: #d8d4cf">They all should be up very soon.</span>
 
 ---
 
