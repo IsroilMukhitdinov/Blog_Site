@@ -1,7 +1,7 @@
 +++
 author = "Izzy Mukhitdinov"
 title = "Abstract Factory Design Pattern"
-date = "2022-10-19"
+date = "2022-11-18"
 description = "Brief look into the implementation of abstract factory design pattern in Go"
 tags = [
     "design patterns",
