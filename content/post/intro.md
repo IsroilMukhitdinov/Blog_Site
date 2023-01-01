@@ -37,6 +37,6 @@ I have been in love with math since I knew myself as a human being and knew how 
 
 ---
 
-If you have any suggestions and want to talk to me, feel free to contact me through any of the mediums provided in this site or if you are too lazy (lol) to type an email, shoot me a message on [telegram](https://t.me/Izzy9808). 
+If you have any suggestions and want to talk to me, feel free to contact me through any of the mediums provided in this site or if you are too lazy (lol) to type an email, shoot me a message on [telegram](https://t.me/isroilmuhitdinov). 
 
 I would be happy to talk to you. <span class="emojify">&#x1F31D;</span>

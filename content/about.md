@@ -22,7 +22,7 @@ I am currently working on multiple projects simultaniously, including:
 * [Share Epiphany](https://nofluffhere.com) 
 * [Muslim Prayer Times Command-Line Application](https://github.com/IsroilMukhitdinov/Prayer_Times)
 
-<span style="background-color: #d8d4cf">They all should be up very soon.</span>
+<span>They all should be up very soon.</span>
 
 ---
 
